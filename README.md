@@ -85,6 +85,13 @@ The REST service supports the following operations:
 6. **Search Device by Brand**
    - **Endpoint:** `[GET /devices/search?brand={brand}](http://localhost:8080/devices/search?brand=Brand3)`
    - **Description:** Searches for devices by their brand name.
+   - 
+### Running Tests:
+
+To run the unit tests, use the following command:
+mvn test
+
+This will execute all the tests in the project and provide a report of the test results.
 
 
 ## Database Integration
