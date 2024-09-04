@@ -6,7 +6,7 @@ Maven (for building the project)
 MySQL
 
 ## Setup Instructions
-1. Clone the Repository
+1. Clone the Repository: git clone https://github.com/rasagnatenneti/DeviceManagement.git
 2. Configure the Database
 Update the application.properties file in src/main/resources/ with your database credentials.
 3. Build the Project
