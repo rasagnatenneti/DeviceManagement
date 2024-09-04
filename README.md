@@ -21,7 +21,7 @@ If you prefer running the application and the database using Docker:
 
 - Build the Docker Image
 docker build -t device-management.
--Run with Docker Compose
+- Run with Docker Compose
 docker-compose up
 
 ## Description
